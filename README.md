@@ -1,2 +1,2 @@
 # Telco-Customer-Churn-Analysis
-Project
+End-to-end churn analysis using SQL & Power BI
