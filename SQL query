@@ -150,4 +150,5 @@ cast(sum(CASE
 	when b.Churn = 'Yes' then b.MonthlyCharges
 	else 0
 end) as decimal(10,2)) as Lost_Recurring_Monthly_Revenue 
+
 FROM DBO.Billing_and_Churn as b;
