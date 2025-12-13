@@ -1,6 +1,8 @@
 📊 Telecom Customer Churn Analysis | SQL + Power BI
 A full end-to-end data analytics project analyzing 7,043 telecom customers to understand why customers churn, measure revenue loss, and deliver strategic recommendations that reduce churn and improve profitability.
 
+“End-to-end churn analytics project identifying high-risk customer segments and quantifying revenue loss using SQL + Power BI.”
+
 🎯 1. Business Problem
 Telecom companies invest heavily in customer acquisition, yet lose a significant portion of revenue to churn (customers leaving the service).
 This project answers key business questions:
@@ -90,7 +92,7 @@ These segments represent priority groups for retention.
 ✔ Target high-value customers (> $70 MRR) with personalized retention workflows
 ✔ Create early-tenure engagement campaigns
 
-These actions directly support revenue recovery and customer lifetime value improvement.
+➡️ Implementing these insights could reduce churn by 10% and retain ~$13.9K in monthly recurring revenue.
 
 📂 7. Repository Structure
 Telco-Customer-Churn-Analysis/
